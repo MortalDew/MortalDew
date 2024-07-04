@@ -3,8 +3,10 @@
 
 Hey! I'm Nick Slizhik, a student currently studying in <a href='https://www.bsuir.by/en'>BSUIR</a>, Belarus. My major is Computer Science (Faculty of Computer Systems and Networks).
 
+[My CV](https://github.com/MortalDew/MortalDew/blob/main/CV.pdf)
+
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://github.com/MortalDew/MortalDew/assets/72689821/85f09950-854d-4e50-a912-fb31806c3588">
+  <img align="right" top="500" height="309" width="420" alt="GIF" src="https://github.com/MortalDew/MortalDew/assets/72689821/f882cd1e-4653-4d59-aa97-e2aac387bc0b">
 </a>
 
 ```python
