@@ -1,9 +1,10 @@
 <h1 align='center'> Hi there 👋</h1>
 
 
-Hey! I'm Nick Slizhik, a student currently studying in <a href='https://www.bsuir.by/en'>BSUIR</a>, Belarus. My major is Computer Science (Faculty of Computer Systems and Networks).
+Hey! I'm Nick Slizhik, a young, but promising developer, trying to improve myself and be happy in this life, by making it better for more of us.
 
-[My CV](https://github.com/MortalDew/MortalDew/blob/main/CV.pdf)
+[My CV][ru_CV_Nikita_Slizhyk_08.09.pdf](https://github.com/user-attachments/files/22257660/ru_CV_Nikita_Slizhyk_08.09.pdf)
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="273.5" width="400" alt="GIF" src="https://github.com/MortalDew/MortalDew/assets/72689821/f882cd1e-4653-4d59-aa97-e2aac387bc0b">
@@ -17,7 +18,7 @@ class AboutNick():
     self.username = "MortalDew"
     self.location = "Minsk, Belarus"
     self.major = "Computer Science"
-    self.additional = "hobby - VR/AR"
+    self.additional = "hobby - Tabletop Games"
   
   def __str__(self):
     return self.name
