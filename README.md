@@ -3,7 +3,7 @@
 
 Hey! I'm Nick Slizhik, a young, but promising developer, trying to improve myself and be happy in this life, by making it better for more of us.
 
-[My CV][ru_CV_Nikita_Slizhyk_08.09.pdf](https://github.com/user-attachments/files/22257660/ru_CV_Nikita_Slizhyk_08.09.pdf)
+[My CV] [ru_CV_Nikita_Slizhyk_08.09.pdf](https://github.com/user-attachments/files/22257660/ru_CV_Nikita_Slizhyk_08.09.pdf)
 
 
 <a target="_blank" align="center">
